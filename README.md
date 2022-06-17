@@ -1,2 +1,2 @@
 # Computer-Networks-Lab
- Client server architecture and Cyclic Redundancy Code generator.
+ Client Server architecture and Cyclic Redundancy Code generator in Python.
